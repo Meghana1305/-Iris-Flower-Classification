@@ -20,5 +20,4 @@ Sepal Length, Sepal Width, Petal Length, Petal Width
  📊 Output
 Model trained using Logistic Regression with good accuracy.
 
-🔗 Link to Kaggle Notebook
-[View on Kaggle](https://www.kaggle.com/code/meghanaa05/task1-iris-flower-classification-ipynb)
+
